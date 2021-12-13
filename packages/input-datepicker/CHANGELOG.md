@@ -1,5 +1,20 @@
 # Change Log
 
+## 0.23.10
+
+### Patch Changes
+
+- 30805edf: Replace deprecated node folder exports with wildcard exports for docs
+- Updated dependencies [30805edf]
+- Updated dependencies [fad9d8e5]
+  - @lion/calendar@0.16.8
+  - @lion/core@0.19.1
+  - @lion/form-core@0.15.5
+  - @lion/input-date@0.12.10
+  - @lion/localize@0.22.0
+  - @lion/overlays@0.29.2
+  - @lion/validate-messages@0.7.8
+
 ## 0.23.9
 
 ### Patch Changes

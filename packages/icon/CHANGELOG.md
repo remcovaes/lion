@@ -1,5 +1,14 @@
 # Change Log
 
+## 0.13.6
+
+### Patch Changes
+
+- 30805edf: Replace deprecated node folder exports with wildcard exports for docs
+- Updated dependencies [30805edf]
+  - @lion/core@0.19.1
+  - singleton-manager@1.4.3
+
 ## 0.13.5
 
 ### Patch Changes

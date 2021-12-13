@@ -1,5 +1,14 @@
 # Change Log
 
+## 0.13.7
+
+### Patch Changes
+
+- 30805edf: Replace deprecated node folder exports with wildcard exports for docs
+- Updated dependencies [30805edf]
+  - @lion/core@0.19.1
+  - @lion/overlays@0.29.2
+
 ## 0.13.6
 
 ### Patch Changes

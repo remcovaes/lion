@@ -1,5 +1,15 @@
 # @lion/progress-indicator
 
+## 0.6.7
+
+### Patch Changes
+
+- 30805edf: Replace deprecated node folder exports with wildcard exports for docs
+- Updated dependencies [30805edf]
+- Updated dependencies [fad9d8e5]
+  - @lion/core@0.19.1
+  - @lion/localize@0.22.0
+
 ## 0.6.6
 
 ### Patch Changes

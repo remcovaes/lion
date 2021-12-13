@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.12.8
+
+### Patch Changes
+
+- 30805edf: Replace deprecated node folder exports with wildcard exports for docs
+- Updated dependencies [30805edf]
+  - @lion/fieldset@0.19.10
+
 ## 0.12.7
 
 ### Patch Changes

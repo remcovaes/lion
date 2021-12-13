@@ -1,5 +1,14 @@
 # @lion/listbox
 
+## 0.10.8
+
+### Patch Changes
+
+- 30805edf: Replace deprecated node folder exports with wildcard exports for docs
+- Updated dependencies [30805edf]
+  - @lion/core@0.19.1
+  - @lion/form-core@0.15.5
+
 ## 0.10.7
 
 ### Patch Changes

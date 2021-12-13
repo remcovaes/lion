@@ -1,5 +1,18 @@
 # Change Log
 
+## 0.22.0
+
+### Minor Changes
+
+- fad9d8e5: add option to show the key as a fallback when a locale is missing a translation
+
+### Patch Changes
+
+- 30805edf: Replace deprecated node folder exports with wildcard exports for docs
+- Updated dependencies [30805edf]
+  - @lion/core@0.19.1
+  - singleton-manager@1.4.3
+
 ## 0.21.3
 
 ### Patch Changes

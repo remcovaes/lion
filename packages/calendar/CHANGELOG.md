@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.16.8
+
+### Patch Changes
+
+- 30805edf: Replace deprecated node folder exports with wildcard exports for docs
+- Updated dependencies [30805edf]
+- Updated dependencies [fad9d8e5]
+  - @lion/core@0.19.1
+  - @lion/localize@0.22.0
+
 ## 0.16.7
 
 ### Patch Changes
